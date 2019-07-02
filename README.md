@@ -8,7 +8,7 @@ Maven and JRE must be installed.
 
 # Building #
 
-mvn clean install
+```mvn clean install```
 
 ![Build success](https://github.com/vijay26051991/PersonManagment-Java/blob/master/Management/Build_Snapshot.png)
 
@@ -19,4 +19,4 @@ Once build, navigate to the "person-management-service\target", you will find ar
 Then, run the below command
 
 ```
-java -jar person-management-service-0.0.1-SNAPSHOT.jar &
+java -jar person-management-service-0.0.1-SNAPSHOT.jar &```
